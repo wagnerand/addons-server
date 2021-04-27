@@ -480,9 +480,9 @@ zipp==3.4.1 \
 google-cloud-bigquery==2.13.1 \
     --hash=sha256:e0cc41fd5d53d59abf6b87e6d7d9863746c2ee6f136def670938dfb4ee5a4ba3 \
     --hash=sha256:915f93c61c03d1d6024d5b19355bb96af25da9f924d0b5bab5cde851e1bd48f4
-google-auth==1.28.0 \
-    --hash=sha256:dcaba3aa9d4e0e96fd945bf25a86b6f878fcb05770b67adbeb50a63ca4d28a5e \
-    --hash=sha256:9bd436d19ab047001a1340720d2b629eb96dd503258c524921ec2af3ee88a80e
+google-auth==1.30.0 \
+    --hash=sha256:588bdb03a41ecb4978472b847881e5518b5d9ec6153d3d679aa127a55e13b39f \
+    --hash=sha256:9ad25fba07f46a628ad4d0ca09f38dcb262830df2ac95b217f9b0129c9e42206
 google-api-core==1.26.3 \
     --hash=sha256:099762d4b4018cd536bcf85136bf337957da438807572db52f21dc61251be089 \
     --hash=sha256:b914345c7ea23861162693a27703bab804a55504f7e6e9abcaff174d80df32ac
