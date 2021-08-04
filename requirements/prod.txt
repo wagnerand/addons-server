@@ -148,9 +148,9 @@ billiard==3.6.4.0 \
 # bitarray is required by filtercascade
 bitarray == 2.1.0 \
     --hash=sha256:97224a19325ecee49a3bf4df3ee0531d3af9cf288b67d089a7ef44a3c4ea3839
-bleach==3.3.0 \
-    --hash=sha256:6123ddc1052673e52bab52cdc955bcb57a015264a1c57d37bea2f6b817af0125 \
-    --hash=sha256:98b3170739e5e83dd9dc19633f074727ad848cbedb6026708c8ac2d3b697a433
+bleach==4.0.0 \
+    --hash=sha256:c1685a132e6a9a38bf93752e5faab33a9517a6c0bb2f37b785e47bf253bdb51d \
+    --hash=sha256:ffa9221c6ac29399cc50fcc33473366edd0cf8d5e2cbbbb63296dc327fb67cc8
 # REMEMBER: leave a few lines between boto3 and botocore requirements to avoid an
 # annoying merge conflict every day when pyup generates prs for both.
 boto3==1.17.78 \
