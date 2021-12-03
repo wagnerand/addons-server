@@ -3,9 +3,9 @@ pyinotify==0.9.6 \
 # ipython / ipdb for easier debugging, supervisor to run services
 ipdb==0.13.9 \
     --hash=sha256:951bd9a64731c444fd907a5ce268543020086a697f6be08f7cc2c9a752a278c5
-ipython==7.27.0 \
-    --hash=sha256:75b5e060a3417cf64f138e0bb78e58512742c57dc29db5a5058a2b1f0c10df02 \
-    --hash=sha256:58b55ebfdfa260dad10d509702dc2857cb25ad82609506b070cf2d7b7df5af13
+ipython==7.30.1 \
+    --hash=sha256:fc60ef843e0863dd4e24ab2bb5698f071031332801ecf8d1aeb4fb622056545c \
+    --hash=sha256:cb6aef731bf708a7727ab6cde8df87f0281b1427d41e65d62d4b68934fa54e97
 watchdog[watchmedo]==2.1.5 \
     --hash=sha256:5f57ce4f7e498278fb2a091f39359930144a0f2f90ea8cbf4523c4e25de34028 \
     --hash=sha256:8b74d0d92a69a7ab5f101f9fe74e44ba017be269efa824337366ccbb4effde85 \
