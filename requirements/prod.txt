@@ -498,9 +498,9 @@ protobuf==3.18.0 \
     --hash=sha256:f7c8193ec805324ff6024242b00f64a24b94d56b895f62bf28a9d72a228d4fca \
     --hash=sha256:615099e52e9fbc9fde00177267a94ca820ecf4e80093e390753568b7d8cb3c1a \
     --hash=sha256:18b308946a592e245299391e53c01b5b8efc2794f49986e80f37d7b5e60a270f
-googleapis-common-protos==1.53.0 \
-    --hash=sha256:f6d561ab8fb16b30020b940e2dd01cd80082f4762fa9f3ee670f4419b4b8dbd0 \
-    --hash=sha256:a88ee8903aa0a81f6c3cec2d5cf62d3c8aa67c06439b0496b49048fb1854ebf4
+googleapis-common-protos==1.54.0 \
+    --hash=sha256:e54345a2add15dc5e1a7891c27731ff347b4c33765d79b5ed7026a6c0c7cbcae \
+    --hash=sha256:a4031d6ec6c2b1b6dc3e0be7e10a1bd72fb0b18b07ef9be7b51f2c1004ce2437
 wrapt==1.12.1 \
     --hash=sha256:b62ffa81fb85f4332a4f609cab4ac40709470da05643a082ec1eb88e6d9b97d7
 cached-property==1.5.2 \
